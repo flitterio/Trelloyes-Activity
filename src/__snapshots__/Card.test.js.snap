@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card Tests renders the content as expected 1`] = `
+<div
+  className="Card"
+>
+  <button
+    type="button"
+  >
+    delete
+  </button>
+  <h3 />
+  <p>
+    content
+  </p>
+</div>
+`;
+
+exports[`Card Tests renders the title as expected 1`] = `
+<div
+  className="Card"
+>
+  <button
+    type="button"
+  >
+    delete
+  </button>
+  <h3>
+    title
+  </h3>
+  <p />
+</div>
+`;
